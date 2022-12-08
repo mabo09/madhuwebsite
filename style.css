@@ -141,7 +141,7 @@ nav ul li a:hover::after{
 	border:4px solid black;
 	margin:6px;
 	background-size:cover;
-	background-repear:no-repeat;
+	background-repeat:no-repeat;
 	float:right;
 	transition: transform 0.4s;
 }
